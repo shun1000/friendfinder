@@ -16,7 +16,7 @@
   "bugs": {
     "url": ""
   },
-  "homepage": "",
+  "homepage": "https://github.com/shun1000/friendfinder.git",
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2"
