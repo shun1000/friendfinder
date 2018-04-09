@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shun1000/friendfinder.git"
+    "url": "https://github.com/shun1000/friendfinder.git"
   },
   "author": "Shun Wakita",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shun1000/FriendFinder/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/shun1000/FriendFinder#readme",
+  "homepage": "",
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2"
